@@ -41,7 +41,8 @@ INSERT INTO `auth_assignment` (`item_name`, `user_id`, `created_at`) VALUES
 ('admin', 'a002', NULL),
 ('staff', 'u001', NULL),
 ('staff', 'u002', 1486916041),
-('staff', 'u003', 1486958950);
+('staff', 'u003', 1486958950),
+('staff','u004');
 
 -- --------------------------------------------------------
 
